@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.9fb0eb74.chunk.css",
+    "main.js": "/Portfolio/static/js/main.0f150cef.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0f150cef.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.73253256.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.73253256.js.map",
+    "static/js/2.e1f26d2c.chunk.js": "/Portfolio/static/js/2.e1f26d2c.chunk.js",
+    "static/js/2.e1f26d2c.chunk.js.map": "/Portfolio/static/js/2.e1f26d2c.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.9fb0eb74.chunk.css.map": "/Portfolio/static/css/main.9fb0eb74.chunk.css.map",
+    "static/js/2.e1f26d2c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e1f26d2c.chunk.js.LICENSE.txt",
+    "static/media/countdown.8783338f.png": "/Portfolio/static/media/countdown.8783338f.png",
+    "static/media/cow-about.1d7a209c.png": "/Portfolio/static/media/cow-about.1d7a209c.png",
+    "static/media/cow-champions.825f2874.png": "/Portfolio/static/media/cow-champions.825f2874.png",
+    "static/media/cow-home.11421678.png": "/Portfolio/static/media/cow-home.11421678.png",
+    "static/media/cow-menus.ea55bac1.png": "/Portfolio/static/media/cow-menus.ea55bac1.png",
+    "static/media/down-arrow.474a217e.svg": "/Portfolio/static/media/down-arrow.474a217e.svg",
+    "static/media/file.2a7b4268.svg": "/Portfolio/static/media/file.2a7b4268.svg",
+    "static/media/food-home-mob-hov.980645ba.png": "/Portfolio/static/media/food-home-mob-hov.980645ba.png",
+    "static/media/food-home-mob.1b7aa619.png": "/Portfolio/static/media/food-home-mob.1b7aa619.png",
+    "static/media/food-home.45041256.png": "/Portfolio/static/media/food-home.45041256.png",
+    "static/media/food-search-filter.be949865.png": "/Portfolio/static/media/food-search-filter.be949865.png",
+    "static/media/food-search-mob-filter.e8703cec.png": "/Portfolio/static/media/food-search-mob-filter.e8703cec.png",
+    "static/media/food-search-mob.615011ed.png": "/Portfolio/static/media/food-search-mob.615011ed.png",
+    "static/media/food-search.f0de9ce9.png": "/Portfolio/static/media/food-search.f0de9ce9.png",
+    "static/media/github.146e30eb.svg": "/Portfolio/static/media/github.146e30eb.svg",
+    "static/media/head-bg.77a5e04e.jpg": "/Portfolio/static/media/head-bg.77a5e04e.jpg",
+    "static/media/home.b0189fdb.svg": "/Portfolio/static/media/home.b0189fdb.svg",
+    "static/media/linkedin-2.8f3ee2e4.svg": "/Portfolio/static/media/linkedin-2.8f3ee2e4.svg",
+    "static/media/myself2.dce11a45.png": "/Portfolio/static/media/myself2.dce11a45.png",
+    "static/media/pokedexImg.76e1ca6b.png": "/Portfolio/static/media/pokedexImg.76e1ca6b.png",
+    "static/media/roomImg.dea8acc9.png": "/Portfolio/static/media/roomImg.dea8acc9.png",
+    "static/media/splitImg.2ae0fef8.png": "/Portfolio/static/media/splitImg.2ae0fef8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73253256.js",
+    "static/js/2.e1f26d2c.chunk.js",
+    "static/css/main.9fb0eb74.chunk.css",
+    "static/js/main.0f150cef.chunk.js"
+  ]
+}
